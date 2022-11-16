@@ -22,3 +22,4 @@ Route::get('/', [IndexController::class, 'index'])->name('home');
 
 /* Pegawai */
 Route::get('/pegawai', [PegawaiController::class, 'index'])->name('pegawai');
+Route::get('/pegawai/update', [PegawaiController::class, 'index'])->name('pegawai_update');

@@ -38,7 +38,7 @@
                     <a href="/pegawai" class="nav-link "><span class="pcoded-micon"><i class="feather icon-file-text"></i></span><span class="pcoded-mtext">Data Pegawai</span></a>
                 </li>
                 <li data-username="Table bootstrap datatable footable" class="nav-item">
-                    <a href="tbl_bootstrap.html" class="nav-link "><span class="pcoded-micon"><i class="feather icon-server"></i></span><span class="pcoded-mtext">Data Surat</span></a>
+                    <a href="/pegawai/update" class="nav-link "><span class="pcoded-micon"><i class="feather icon-server"></i></span><span class="pcoded-mtext">Update Pegawai</span></a>
                 </li>
 
                 <li data-username="Charts Morris" class="nav-item"><a href="chart-morris.html" class="nav-link "><span class="pcoded-micon"><i class="feather icon-pie-chart"></i></span><span class="pcoded-mtext">Chart</span></a></li>

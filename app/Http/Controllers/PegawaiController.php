@@ -9,4 +9,8 @@ class PegawaiController extends Controller
     public function index(){
         return view('pegawai/index');
     }
+
+    public function update(){
+        return view('pegawai/update');
+    }
 }
